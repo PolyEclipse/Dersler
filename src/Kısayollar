@@ -1,0 +1,55 @@
+Eclipse, java geliþtirmek için en çok kullanýlan IDE’lerden birisidir. Eclipse te en çok kullanýlan kýsayollarý aþaðýda bulabilirsiniz.
+
+CTRL+SPACE: Deðiþken ve method isimlerini tamamlayýcý olarak ve kod þablonlarýný oluþturmak için kullanabiliriz. 
+
+F3:  Ýmlecin üzerinde bulunduðu ögenin tanýmýna(declaration) gider.
+
+F4:  Ýmlecin üzerinde bulunduðu, metot veya sýnýfýn kök dizinini / Hiyerarþisini açar.
+
+F11: Debug modda çalýþtýrýr.
+
+CTRL+F11: Run. 
+
+CTRL+D: Ýmlecin üzerinde bulunduðu satýrý direk siler.
+
+CTRL+O: Sýnýf içindeki methodlarýn ve fieldlarýn bir listesini açarak arama yapmanýzý saðlar.
+
+CTRL+E: Editörünüzde açýk olan dosyalarýn bir listesini görmenizi saðlar.
+
+CTRL+H: Arama Yap penceresini açar.
+
+ALT+SOL YÖN TUÞU: Bir önceki kod satýrýna gider
+
+ALT+ SAÐ YÖN TUÞU: Bir sonraki kod satýrýna gider
+
+CTRL+SHIFT+T: Workspace içinde jdk ile gelen sýnýflarda(type) arama yapabilirsiniz.
+
+ALT+SHIFT+S: Getter ve Setter oluþturmak için menüyü açar.
+
+CTRL+SHIFT+F: Kodunuzu formatlayarak okunaklýðýný artýrýr.
+
+CTRL+SHIFT+B: Break point ekler veya var olan Break pointi devre dýþý býrakýr.
+
+CTRL+SHIFT+C: Yorum ekler veya var olan yorumu devre dýþý býrakýr.   
+
+CTRL+SHIFT+R:  Workspace içinde kullanýcý tarafýndan yazýlmýþ sýnýflarý ya da dosyalarý(resource) aramanýzý saðlar.
+
+CTRL+SHIFT+O: Importlarý düzenler. Kullanýlmayan importlarý siler ve eðer eklemeden kullandýðýnýz paketler varsa onlarýn importunu ekler.
+
+CTRL+L: Satýr numarasý girerek o satýra gitmenizi saðlar.
+
+CTRL+Q: Kod içinde deðiþiklik yapýlan son satýra gider.
+
+CTRL+SHIFT+UP ve CTRL+SHIFT+DOWN: Sýnýf içerisindeki methodlar arasýnda dolaþabilirsiniz.
+
+CTRL+ I: ise sadece girintilemeyi düzenler.
+
+CTRL+SHIFT+F4: Açýk olan tüm pencereleri kapatýr.
+
+CTRL+HOME: Sýnýf içerisinde en üst satýra gider.
+
+CTRL+END: Sýnýf içerinde en alt satýra gider.
+
+Son olarak ise CTRL+SHIFT+L ile kýsayollarý düzenleyebilceðiniz bir liste açabilirsiniz.
+
+CTRl+3 kýsayolu ile hýzlý eriþim menüsünü açýp. Yeni sýnýf, paket, vb. bir çok þeye eriþim saðlayabilirsiniz.
